@@ -8,10 +8,9 @@ scripture: Genesis 11, Psalms 127:1-5, 1 Corinthians 3:10, Hebrews 11:8-10, Ephe
   2:19-22
 description: ''
 series: _series/architecture.md
-duration: ''
-length: 
+duration: '51:04'
+length: 61285271
 image: "/v1624483850/architecture_pnsdf4.png"
 notes: ''
-published: false
 
 ---
