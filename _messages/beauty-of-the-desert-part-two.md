@@ -17,6 +17,5 @@ duration: '44:54'
 length: 53885304
 image: "/v1624483850/architecture_pnsdf4.png"
 notes: ''
-published: false
 
 ---
