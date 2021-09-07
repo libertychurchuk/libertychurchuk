@@ -231,7 +231,7 @@ fields:
   - type: text
     name: admin-address
     label: admin-address
-  - name: show_admin_address
+  - name: show-admin-address
     type: boolean
     label: Show admin address
     default: true
