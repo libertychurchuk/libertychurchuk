@@ -84,9 +84,9 @@ email: web@libertychurchuk.com
 twitter:
   username: LibertyChurchUK
 facebook:
-  app_id: 
-  publisher: 
-  admins: 
+  app_id: ''
+  publisher: ''
+  admins: ''
 logo: "/assets/images/logos/liberty-church-logo.png"
 lang: en-GB
 social:
@@ -105,22 +105,23 @@ contact:
   service-address: Llanwern High School, Hartridge Farm Rd, Newport NP18 2YE
   admin-address: Gaer Christian Centre, Gaer Park Drive, Newport, NP20 3NN, United
     Kingdom
+  show-admin-address: true
 pagination:
   enabled: true
   debug: false
   collection: posts
-  per_page: "12"
+  per_page: 12
   permalink: "/page:num/"
   title: ":title - page :num"
-  limit: "0"
+  limit: 0
   sort_field: date
   sort_reverse: true
   category: posts
   tag: ''
   locale: ''
   trail:
-    before: "2"
-    after: "2"
+    before: 2
+    after: 2
   extension: html
   indexpage: index
 sass:
@@ -130,3 +131,5 @@ plugins:
 - jekyll-seo-tag
 - jekyll-paginate-v2
 - jekyll-menus
+series: []
+date: '2021-09-07 11:28:26 +0000'
