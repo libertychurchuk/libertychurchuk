@@ -231,6 +231,10 @@ fields:
   - type: text
     name: admin-address
     label: admin-address
+  - name: show_admin_address
+    type: boolean
+    label: Show admin address
+    default: true
 - type: field_group
   name: pagination
   label: pagination
