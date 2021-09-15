@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Rob & Thelma Davies / Graham & Daryl Sheppard
 leaders: Rob & Thelma Davies / Graham & Daryl Sheppard
 description: "<p></p>"
 location: Newport

@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Ken & Jean van Staden
 leaders: Ken & Jean van Staden
 description: "<p></p>"
 location: Newport
