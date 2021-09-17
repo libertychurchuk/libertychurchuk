@@ -3,8 +3,8 @@ title: David & Lorraine Kemp
 leaders: David & Lorraine Kemp
 description: "<p></p>"
 location: Newport
-day: Wednesday
-time: 7.30pm
+day: Wednesdays at 7.30pm
+time: ''
 image: "/v1631719416/Kemps_naoz3j.png"
 
 ---
