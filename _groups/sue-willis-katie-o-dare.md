@@ -6,6 +6,5 @@ location: Newport
 day: Saturdays
 time: 11am
 image: "/v1631719150/Sue_Katie_zjmwkp.png"
-published: false
 
 ---
