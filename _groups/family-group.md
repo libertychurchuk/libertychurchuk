@@ -1,10 +1,10 @@
 ---
-title: Heath & Leah van Staden
-leaders: Heath & Leah van Staden
+title: Heath & Leah van Staden / Gaz & Lois Hillier
+leaders: Heath & Leah van Staden / Gaz & Lois Hillier
 description: "<p></p>"
 location: Newport
-day: ''
-time: ''
-image: "/v1631719607/H_LVanStaden_awfzpk.png"
+day: Thursdays
+time: 5pm
+image: "/v1631871093/VSHilliers_k4v5yf.png"
 
 ---
