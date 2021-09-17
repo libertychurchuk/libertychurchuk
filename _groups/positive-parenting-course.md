@@ -5,6 +5,6 @@ description: "<p></p>"
 location: Newport
 day: Mondays
 time: 7.30pm
-image: ''
+image: "/v1631871206/Rouxs_zokggq.png"
 
 ---
