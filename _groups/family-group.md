@@ -1,6 +1,6 @@
 ---
-title: Heath & Leah van Staden / Gaz & Lois Hillier
-leaders: Heath & Leah van Staden / Gaz & Lois Hillier
+title: Gaz & Lois Hillier
+leaders: Gaz & Lois Hillier
 description: "<p></p>"
 location: Newport
 day: Thursdays
