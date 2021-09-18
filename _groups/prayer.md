@@ -1,6 +1,6 @@
 ---
-title: ''
-leaders: " Stu & Bev Boalch / Rob & Christine McFarlane"
+title: " Stu & Bev Boalch / Rob & Christine McFarlane"
+leaders: " "
 description: "<p></p>"
 location: Cwmbran
 day: Wednesdays at 7.30pm
