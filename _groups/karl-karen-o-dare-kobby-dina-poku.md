@@ -1,6 +1,6 @@
 ---
 title: Karl & Karen O'Dare / Kobby & Dina Poku
-leaders: Karl & Karen O'Dare / Kobby & Dina Poku
+leaders: " "
 description: "<p>Sunday afternoon for families.</p>"
 location: Newport
 day: Sundays at 2.30pm
