@@ -45,7 +45,5 @@ fields:
   label: Photo
   description: A photo of the group leaders
 pages:
-- _groups/family-group-newport.md
 - _groups/heath-van-staden.md
 - _groups/karl-karen-o-dare-kobby-dina-poku.md
-- _groups/psalm-103.md
