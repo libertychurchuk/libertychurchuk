@@ -1,7 +1,7 @@
 ---
 title: Franzwa & Roma Roux
 leaders: Franzwa & Roma Roux
-description: "<p></p>"
+description: "<p>(This group is FULL)</p>"
 location: Newport
 day: Mondays at 7.30pm
 time: ''

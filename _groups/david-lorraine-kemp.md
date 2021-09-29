@@ -1,7 +1,7 @@
 ---
 title: David & Lorraine Kemp
 leaders: David & Lorraine Kemp
-description: "<p></p>"
+description: "<p>(This group is FULL)</p>"
 location: Newport
 day: Wednesdays at 7.30pm
 time: ''
