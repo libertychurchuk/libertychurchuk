@@ -1,7 +1,7 @@
 ---
 title: Richard & Joy Saunders / Gavin & Louise Worrall
 leaders: Richard & Joy Saunders / Gavin & Louise Worrall
-description: "<p></p>"
+description: "<p>(This group is FULL)</p>"
 location: Newport
 day: Wednesdays at 7.30pm
 time: ''
