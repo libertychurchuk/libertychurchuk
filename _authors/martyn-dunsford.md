@@ -1,7 +1,6 @@
 ---
 title: Martyn Dunsford
 avatar: "/v1633370330/martyn-dunsford_m51zk2.jpg"
-published: false
 
 ---
 Martyn is married to Gaynor and they have 3 adult children and 4 grandchildren so far.
