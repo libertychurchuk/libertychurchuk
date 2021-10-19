@@ -1,5 +1,5 @@
 ---
-author: ''
+author: _authors/graham-riley.md
 title: 'Wednesday Morning Bible Study: “Who am I” Part 1'
 scripture: Galatians 5:1
 date: 2021-10-12 10:00:00 +0000
