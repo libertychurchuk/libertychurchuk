@@ -7,10 +7,9 @@ title: To boldly go where no one’s gone before
 scripture: Mark 16:15, Genesis 1:28, Revelation 21:1, Genesis 41:39-43
 description: ''
 series: _series/occupy...your-space.md
-duration: ''
-length: 
+duration: '44:19'
+length: 53185222
 image: ''
 notes: ''
-published: false
 
 ---
