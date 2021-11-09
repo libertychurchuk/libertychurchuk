@@ -9,7 +9,7 @@ description: ''
 series: _series/occupy...your-space.md
 duration: '44:19'
 length: 53185222
-image: ''
+image: "/v1635852905/OccupySpace_screen_u5cbgg.png"
 notes: ''
 
 ---
