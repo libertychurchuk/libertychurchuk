@@ -4,7 +4,8 @@ author: _authors/heath-van-staden.md
 part: 
 file: "/2021/2021-11-21.mp3"
 title: Good men and women think “grandkids”
-scripture: Proverbs 13:22, 2 Timothy 1:5-7, Colossians 1:15-19
+scripture: Proverbs 13:22, 2 Timothy 1:5-7, Colossians 1:15-19, Psalm 24:1, Ephesians
+  4:6, Hebrews 3:4
 description: ''
 series: _series/occupy...your-space.md
 duration: ''
