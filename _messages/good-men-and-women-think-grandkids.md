@@ -8,10 +8,9 @@ scripture: Proverbs 13:22, 2 Timothy 1:5-7, Colossians 1:15-19, Psalm 24:1, Ephe
   4:6, Hebrews 3:4
 description: ''
 series: _series/occupy...your-space.md
-duration: ''
-length: 
+duration: '34:16'
+length: 41125532
 image: "/v1635852905/OccupySpace_screen_u5cbgg.png"
 notes: ''
-published: false
 
 ---
