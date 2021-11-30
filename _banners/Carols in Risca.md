@@ -6,6 +6,5 @@ background_image: "/v1638281683/CarolsatRisca2021_screen1920x1080_potabz.jpg"
 link: ''
 logo: ''
 expiry_date: 
-published: false
 
 ---
