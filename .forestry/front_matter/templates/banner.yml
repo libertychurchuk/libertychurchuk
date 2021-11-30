@@ -44,6 +44,7 @@ fields:
     display_utc: 
   hidden: true
 pages:
+- _banners/Carols in Risca.md
 - _banners/alpha-online.md
 - _banners/church-online.md
 - _banners/easter-at-liberty-church.md
