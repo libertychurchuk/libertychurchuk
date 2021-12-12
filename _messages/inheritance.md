@@ -7,10 +7,9 @@ title: Inheritance
 scripture: ''
 description: ''
 series: _series/occupy...your-space.md
-duration: ''
-length: 
+duration: '43:05'
+length: 51705646
 image: ''
 notes: ''
-published: false
 
 ---
