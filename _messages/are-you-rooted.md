@@ -4,7 +4,7 @@ author: _authors/koby-poku.md
 part: 
 file: "/2021/2021-12-12.mp3"
 title: Are you rooted?
-scripture: Matthew 7:24-27
+scripture: Matthew 7:24-27, Psalm 11:3
 description: The ROOT affects your beliefs and what you display.
 series: ''
 duration: ''
