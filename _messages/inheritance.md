@@ -9,7 +9,7 @@ description: Inheritance
 series: _series/occupy...your-space.md
 duration: '43:05'
 length: 51705646
-image: ''
+image: "/v1635852905/OccupySpace_screen_u5cbgg.png"
 notes: ''
 
 ---
