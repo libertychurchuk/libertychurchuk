@@ -1,10 +1,10 @@
 ---
 date: 2021-12-12 11:33:58 +0000
 author: _authors/koby-poku.md
-part: 
+part: 6
 file: "/2021/2021-12-12.mp3"
-title: 'Jesus came to occupy '
-scripture: Matthew 7:24-27, Psalm 11:3, 1 Corinthians 3:11
+title: Jesus Came to Occupy... the Space of your foundation
+scripture: 1 Corinthians 3:11
 description: The ROOT affects your beliefs and what you display.
 series: _series/occupy...your-space.md
 duration: '52:04'
