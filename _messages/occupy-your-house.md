@@ -1,7 +1,7 @@
 ---
 date: 2021-11-14 11:00:09 +0000
 author: _authors/heath-van-staden.md
-part: 
+part: 3
 file: "/2021/2021-11-14.mp3"
 title: Occupy Your House
 scripture: 1 Chronicles 28:20-21
