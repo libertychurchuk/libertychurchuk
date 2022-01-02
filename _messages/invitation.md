@@ -4,7 +4,7 @@ author: _authors/heath-van-staden.md
 part: 
 file: "/2022/2022-01-02.mp3"
 title: Invitation
-scripture: Isaiah 22:22, Revelation 3:7-8, Psalm 23
+scripture: Isaiah 22:22, Revelation 3:7-8, Revelation 3:20, Psalm 23
 description: ''
 series: _series/occupy...your-space.md
 duration: ''
