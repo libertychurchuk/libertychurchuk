@@ -4,7 +4,7 @@ author: _authors/phil-boalch.md
 part: 
 file: "/2021/2021-01-09.mp3"
 title: Occupy the space between your ears
-scripture: 2 Corinthians 10:3, Ephesians 6:12, Genesis 6:5
+scripture: 2 Corinthians 10:3, Ephesians 6:12, Genesis 6:5, Number 33:52
 description: ''
 series: ''
 duration: ''
