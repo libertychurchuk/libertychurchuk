@@ -38,6 +38,7 @@ fields:
   hidden: true
   default: ''
 pages:
+- genesis-collective-a20-gathering.md
 - get-involved/index.html
 - get-involved/places-of-liberty/index.html
 - giving/index.html
