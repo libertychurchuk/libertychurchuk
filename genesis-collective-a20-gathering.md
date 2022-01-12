@@ -9,6 +9,17 @@ body:
   size: Small
   overlay_colour: rgb(49, 54, 64)
   overlay_opacity: Opacity 30
+  background_image: "/v1642007130/mitchell-orr-Ddp_T92Vjus-unsplash_tbykvg.jpg"
+  subtitle: ''
+  description: ''
+  logo: ''
+  add_overlay_: false
+  call_to_action: []
+- template: content-block
+  title: Genesis Collective A20 Gathering
+  size: Small
+  overlay_colour: rgb(49, 54, 64)
+  overlay_opacity: Opacity 30
   description: "<p><strong><em>Genesis Collective... A collective of churches and
     relationships committed to global church planting, together.</em></strong></p><p></p><p><strong>Making
     Sense of It All</strong></p><p>We want to invite you and your leadership team,
