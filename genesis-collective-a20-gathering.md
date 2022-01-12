@@ -1,7 +1,8 @@
 ---
 title: Genesis Collective A20 Gathering
 image: ''
-description: ''
+description: Genesis Collective... A collective of churches and relationships committed
+  to global church planting, together. A20 Gathering February 2022.
 body:
 - template: content-block
   title: Genesis Collective A20 Gathering
