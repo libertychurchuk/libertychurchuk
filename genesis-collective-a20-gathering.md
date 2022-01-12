@@ -28,6 +28,5 @@ call_to_action:
   external_link: true
   link: https://www.eventbrite.co.uk/e/genesis-collective-a20-gathering-tickets-244321350737
   video_link: false
-published: false
 
 ---
