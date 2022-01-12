@@ -34,5 +34,8 @@ body:
   logo: ''
   add_overlay_: false
 layout: ''
+menu:
+  sidebar:
+    weight: 12
 
 ---
