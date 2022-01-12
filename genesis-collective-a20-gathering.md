@@ -34,6 +34,5 @@ body:
   logo: ''
   add_overlay_: false
 layout: ''
-published: false
 
 ---
