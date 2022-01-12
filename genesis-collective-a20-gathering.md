@@ -15,13 +15,9 @@ body:
   logo: ''
   add_overlay_: false
   call_to_action: []
-- template: content-block
-  title: Genesis Collective A20 Gathering
-  size: Small
-  overlay_colour: rgb(49, 54, 64)
-  overlay_opacity: Opacity 30
-  description: "<p><strong><em>Genesis Collective... A collective of churches and
-    relationships committed to global church planting, together.</em></strong></p><p></p><p><strong>Making
+- template: text
+  content: "<p><strong><em>Genesis Collective... A collective of churches and relationships
+    committed to global church planting, together.</em></strong></p><p></p><p><strong>Making
     Sense of It All</strong></p><p>We want to invite you and your leadership team,
     to join with us in the beautiful nation of Wales for 3 days in what we believe
     and know will be a significant time of input. God is inviting each of us to pause,
@@ -33,18 +29,10 @@ body:
     able to journey and navigate all that lies ahead for us.</p><p>We look forward
     to this time together as we worship, hear God's Word, encourage, edify and have
     fun. A great opportunity to meet and build new friendships. We can’t wait to see
-    you there.</p><p>Schedule:</p><p>Tuesday 15th February - Global Leadership Day
-    (Invite Only)</p><p>Wednesday 16th - Friday 18th February - Main Conference</p>"
-  background_image: "/v1642006533/mitchell-orr-Ddp_T92Vjus-unsplash_pa55bc.jpg"
-  call_to_action:
-  - template: call-to-action
-    button_text: Register Here
-    link: https://www.eventbrite.co.uk/e/244321350737
-    external_link: true
-    video_link: false
-  subtitle: ''
-  logo: ''
-  add_overlay_: false
+    you there.</p><p></p><p><strong>Schedule:</strong></p><p>Tuesday 15th February
+    - Global Leadership Day (Invite Only)</p><p>Wednesday 16th - Friday 18th February
+    - Main Conference</p>"
+  display_field: ''
 layout: ''
 menu:
   sidebar:
