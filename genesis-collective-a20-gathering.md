@@ -8,8 +8,8 @@ body:
   size: Small
   overlay_colour: rgb(49, 54, 64)
   overlay_opacity: Opacity 30
-  description: "<p><strong><em>We are Genesis Collective... A collective of churches
-    and relationships committed to global church planting, together.</em></strong></p><p></p><p><strong>Making
+  description: "<p><strong><em>Genesis Collective... A collective of churches and
+    relationships committed to global church planting, together.</em></strong></p><p></p><p><strong>Making
     Sense of It All</strong></p><p>We want to invite you and your leadership team,
     to join with us in the beautiful nation of Wales for 3 days in what we believe
     and know will be a significant time of input. God is inviting each of us to pause,
