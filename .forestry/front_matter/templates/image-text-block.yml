@@ -117,5 +117,3 @@ fields:
   - donate-button
   config:
     max: '4'
-pages:
-- genesis-collective-a20-gathering.md
