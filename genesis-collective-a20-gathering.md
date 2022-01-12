@@ -33,6 +33,22 @@ body:
     - Global Leadership Day (Invite Only)</p><p>Wednesday 16th - Friday 18th February
     - Main Conference</p>"
   display_field: ''
+- template: image-text-block
+  theme: Light
+  display: Wide
+  title: e.g. New to church
+  text_alignment: Center
+  image_position: Right
+  image_type: Cover
+  call_to_action:
+  - template: call-to-action
+    button_text: Register here
+    external_link: true
+    link: https://www.eventbrite.co.uk/e/244321350737
+    video_link: false
+  subtitle: ''
+  description: ''
+  image: ''
 layout: ''
 menu:
   sidebar:
