@@ -79,9 +79,6 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: documents
-  templates:
-  - home
-  - page
 - type: directory
   path: _data
   label: Data
