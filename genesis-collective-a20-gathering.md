@@ -44,7 +44,7 @@ body:
   title: " "
   text_alignment: Center
   image_position: Right
-  image_type: Cover
+  image_type: Contain
   call_to_action:
   - template: call-to-action
     button_text: Register here
