@@ -36,7 +36,7 @@ body:
 - template: image-text-block
   theme: Light
   display: Wide
-  title: e.g. New to church
+  title: " "
   text_alignment: Center
   image_position: Right
   image_type: Cover

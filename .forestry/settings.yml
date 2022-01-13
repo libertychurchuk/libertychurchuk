@@ -90,7 +90,6 @@ sections:
 - type: document
   path: netlify.toml
   label: Redirects
-  match: "**/*"
 upload_dir: ''
 public_path: https://res.cloudinary.com/libertychurchuk/image/upload
 front_matter_path: ''
