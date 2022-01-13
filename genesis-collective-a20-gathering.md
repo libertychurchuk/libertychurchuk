@@ -10,8 +10,7 @@ body:
   overlay_colour: rgb(49, 54, 64)
   overlay_opacity: Opacity 30
   background_image: "/v1642007130/mitchell-orr-Ddp_T92Vjus-unsplash_tbykvg.jpg"
-  subtitle: Genesis Collective... A collective of churches and relationships committed
-    to global church planting, together.
+  subtitle: ''
   description: ''
   logo: ''
   add_overlay_: false
