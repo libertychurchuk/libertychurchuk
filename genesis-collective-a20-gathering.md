@@ -29,9 +29,9 @@ body:
     able to journey and navigate all that lies ahead for us.</p><p>We look forward
     to this time together as we worship, hear God's Word, encourage, edify and have
     fun. A great opportunity to meet and build new friendships. We can’t wait to see
-    you there.</p><p><strong>Schedule:</strong></p><ul><li><p>Tuesday 15th February
-    - Global Leadership Day (Invite Only)</p></li><li><p>Wednesday 16th - Friday 18th
-    February - Main Conference</p></li></ul>"
+    you there.</p><p><strong>Schedule:</strong></p><p>Tuesday 15th February - Global
+    Leadership Day (Invite Only)</p><p>Wednesday 16th - Friday 18th February - Main
+    Conference</p>"
   display_field: ''
 - template: image-text-block
   theme: Light
