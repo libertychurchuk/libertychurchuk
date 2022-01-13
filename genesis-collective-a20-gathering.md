@@ -22,7 +22,7 @@ body:
     video_link: false
 - template: text
   content: "<p><strong><em>Genesis Collective... A collective of churches and relationships
-    committed to global church planting, together.</em></strong></p><p>www.genesiscollective.org</p><p></p><p><strong>Making
+    committed to global church planting, together.</em></strong></p><p></p><p><strong>Making
     Sense of It All</strong></p><p>We want to invite you and your leadership team,
     to join with us in the beautiful nation of Wales for 3 days in what we believe
     and know will be a significant time of input. God is inviting each of us to pause,
