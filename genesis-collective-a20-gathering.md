@@ -14,7 +14,12 @@ body:
   description: ''
   logo: ''
   add_overlay_: false
-  call_to_action: []
+  call_to_action:
+  - template: call-to-action
+    button_text: www.genesiscollective.org
+    link: www.genesiscollective.org
+    external_link: true
+    video_link: false
 - template: text
   content: "<p><strong><em>Genesis Collective... A collective of churches and relationships
     committed to global church planting, together.</em></strong></p><p></p><p><strong>Making
