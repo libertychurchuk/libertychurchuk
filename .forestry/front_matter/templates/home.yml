@@ -36,7 +36,7 @@ fields:
   label: Layout
   type: text
   hidden: true
-  default: ''
+  default: blocks
 pages:
 - genesis-collective-a20-gathering.md
 - get-involved/index.html
