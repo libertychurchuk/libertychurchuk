@@ -53,7 +53,7 @@ body:
     video_link: false
   subtitle: ''
   description: ''
-  image: ''
+  image: "/v1642066042/mitchell-orr-Ddp_T92Vjus-unsplash_xx58ic.jpg"
 layout: blocks
 menu:
   sidebar:
