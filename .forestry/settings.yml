@@ -89,7 +89,7 @@ sections:
   match: "**/*.{json,yaml,yml}"
 - type: document
   path: netlify.toml
-  label: Redirects (Short URLs)
+  label: Redirects - (Short URLs)
 - type: document
   path: _config.yml
   label: Config
