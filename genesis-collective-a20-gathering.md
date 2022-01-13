@@ -16,8 +16,8 @@ body:
   add_overlay_: false
   call_to_action:
   - template: call-to-action
-    button_text: www.genesiscollective.org
-    link: www.genesiscollective.org
+    button_text: genesiscollective.org
+    link: https://www.genesiscollective.org
     external_link: true
     video_link: false
 - template: text
