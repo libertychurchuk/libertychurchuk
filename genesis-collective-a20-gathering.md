@@ -49,7 +49,7 @@ body:
   subtitle: ''
   description: ''
   image: ''
-layout: ''
+layout: blocks
 menu:
   sidebar:
     weight: 12
