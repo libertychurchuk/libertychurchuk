@@ -22,7 +22,5 @@ Session 1:
 
 Session 2:
 
-1. 
-
-
-1. 
+1. Recommittal
+2. 
