@@ -14,3 +14,6 @@ notes: ''
 published: false
 
 ---
+1. Reality
+2. Realisation
+3. Re-evaluation
