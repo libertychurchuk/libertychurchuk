@@ -7,8 +7,8 @@ title: Occupy the space between your ears - session 2
 scripture: 2 Peter 1:5, Hebrews 10:23, Romans 12:2, Psalm 55:17, Daniel 6:10
 description: ''
 series: ''
-duration: ''
-length: 
+duration: '44:55'
+length: 53895230
 image: "/v1635852905/OccupySpace_screen_u5cbgg.png"
 notes: ''
 published: false
