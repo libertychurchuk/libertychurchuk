@@ -11,7 +11,6 @@ duration: '44:55'
 length: 53895230
 image: "/v1635852905/OccupySpace_screen_u5cbgg.png"
 notes: ''
-published: false
 
 ---
 Session 1:
