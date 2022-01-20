@@ -63,8 +63,8 @@ fields:
   label: File
   config:
     required: true
-  description: The folder name and filename for the podcast episode e.g. /2021/2021-01-03.mp3
-  default: "/2021/2021-"
+  description: The folder name and filename for the podcast episode e.g. /2022/2022-01-03.mp3
+  default: "/2022/2022-"
 - type: text
   name: duration
   label: Duration
