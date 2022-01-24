@@ -1,10 +1,10 @@
 ---
-title: Stu & Bev Boalch / Rob & Christine McFarlane
-leaders: Stu & Bev Boalch / Rob & Christine McFarlane
-description: "<p>(This group is FULL)</p>"
+title: Stu & Bev Boalch
+leaders: Stu & Bev Boalch
+description: "<p></p>"
 location: Cwmbran
 day: Wednesdays at 7.30pm
 time: ''
-image: "/v1631719247/Boalch_McFarlane_u9x96d.png"
+image: "/v1643017405/Stuandbevboalch_wjkydi.png"
 
 ---
