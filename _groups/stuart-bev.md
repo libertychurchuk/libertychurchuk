@@ -1,6 +1,6 @@
 ---
 title: Stu & Bev Boalch
-leaders: Stu & Bev Boalch
+leaders: " "
 description: "<p></p>"
 location: Cwmbran
 day: Wednesdays at 7.30pm
