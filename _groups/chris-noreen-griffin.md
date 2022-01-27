@@ -1,6 +1,6 @@
 ---
 title: Chris & Noreen Griffin
-leaders: Chris & Noreen Griffin
+leaders: " "
 description: "<p>Sunday afternoon for anyone including families.</p><p>(This group
   is FULL)</p>"
 location: Newport
