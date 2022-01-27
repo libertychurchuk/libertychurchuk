@@ -1,6 +1,6 @@
 ---
 title: Graeme & Nicolette de Villiers
-leaders: Graeme & Nicolette de Villiers
+leaders: " "
 description: ''
 location: Cardiff Area
 day: Throughout the week
