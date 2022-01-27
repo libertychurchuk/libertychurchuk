@@ -1,6 +1,6 @@
 ---
 title: Franzwa & Roma Roux
-leaders: Franzwa & Roma Roux
+leaders: " "
 description: "<p></p>"
 location: Newport
 day: Mondays at 7.30pm
