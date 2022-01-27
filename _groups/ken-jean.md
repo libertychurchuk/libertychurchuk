@@ -1,6 +1,6 @@
 ---
 title: Ken & Jean van Staden
-leaders: Ken & Jean van Staden
+leaders: " "
 description: "<p></p>"
 location: Newport
 day: Wednesdays at 7pm
