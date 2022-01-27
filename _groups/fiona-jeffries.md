@@ -1,6 +1,6 @@
 ---
 title: Fiona Jefferies
-leaders: Fiona Jefferies
+leaders: " "
 description: "<p>For anyone and everyone who is around at 10am on a Monday morning,
   babies and toddlers welcome.</p>"
 location: Newport
