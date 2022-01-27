@@ -45,4 +45,5 @@ fields:
   label: Photo
   description: A photo of the group leaders
 pages:
+- _groups/graeme-nicolette-de-villiers.md
 - _groups/karl-karen-o-dare-kobby-dina-poku.md
