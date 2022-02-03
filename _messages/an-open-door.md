@@ -7,10 +7,9 @@ title: An open door
 scripture: Acts 14:27, Acts 13:1-3, Matthew 18:18, James 2:20
 description: Stay teachable
 series: ''
-duration: ''
-length: 
+duration: '43:12'
+length: 51845140
 image: ''
 notes: ''
-published: false
 
 ---
