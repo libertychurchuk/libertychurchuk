@@ -5,7 +5,8 @@ part:
 file: "/2022/2022-02-20.mp3"
 title: 'Promise of the Holy Spirit '
 scripture: Acts 2:37-39, Genesis 12:3
-description: ''
+description: 'The Holy Spirit is for you, but it doesn’t end with you, but to be passed
+  on to the next generation. '
 series: ''
 duration: ''
 length: 
