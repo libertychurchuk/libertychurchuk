@@ -8,8 +8,8 @@ scripture: Acts 2:37-39, Genesis 12:3
 description: The Holy Spirit is for you, but it doesn’t end with you, but to be passed
   on to the next generation. With whom has He entrusted you to pass it on to?
 series: ''
-duration: ''
-length: 
+duration: '49:06'
+length: 58925369
 image: ''
 notes: ''
 published: false
