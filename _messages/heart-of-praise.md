@@ -7,7 +7,7 @@ title: Heart of praise
 scripture: Deuteronomy 8:6-18, Matthew 6:19-24
 description: ''
 series: ''
-duration: ''
+duration: '53:50'
 length: 
 image: ''
 notes: ''
