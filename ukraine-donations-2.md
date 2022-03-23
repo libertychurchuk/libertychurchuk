@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Ukraine Donations
-image: "/v1648052013/1200px-Outline_of_Ukraine.svg_mh1enz.png"
+title: " "
+image: ''
 description: ''
 body:
 - template: content-block
@@ -14,17 +14,6 @@ body:
   subtitle: ''
   description: ''
   logo: ''
-  call_to_action: []
-- template: image-text-block
-  theme: Light
-  display: Wide
-  title: Ukraine Donations
-  text_alignment: Center
-  image_position: Right
-  image_type: Contain
-  image: "/v1648052377/1200px-Outline_of_Ukraine.svg_d9gwao.png"
-  subtitle: ''
-  description: ''
   call_to_action: []
 - template: text
   content: "<p>Here is an updated list of items urgently needed for the people of
