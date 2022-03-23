@@ -1,7 +1,7 @@
 ---
 theme: Light
 display: Wide
-title: Ukraine Donations
+title: Ukraine Donations 2
 text_alignment: Center
 image_position: Right
 image_type: Contain
@@ -17,6 +17,5 @@ description: "<p>Here is an updated list of items urgently needed for the people
   the donations so far, they will be such a blessing to the people of Ukraine.</p>"
 image: "/v1648051568/1200px-Outline_of_Ukraine.svg_sjoqhn.png"
 call_to_action: []
-published: false
 
 ---
