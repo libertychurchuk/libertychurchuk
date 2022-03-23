@@ -4,6 +4,17 @@ title: Ukraine Donations 3
 image: "/v1648052013/1200px-Outline_of_Ukraine.svg_mh1enz.png"
 description: ''
 body:
+- template: content-block
+  title: Ukraine Donations
+  size: Small
+  overlay_colour: rgb(49, 54, 64)
+  overlay_opacity: Opacity 30
+  background_image: "/v1648052515/1200px-Outline_of_Ukraine.svg_cz8wjq.png"
+  add_overlay_: true
+  subtitle: ''
+  description: ''
+  logo: ''
+  call_to_action: []
 - template: image-text-block
   theme: Light
   display: Wide
