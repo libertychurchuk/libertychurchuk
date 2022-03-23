@@ -1,8 +1,8 @@
 ---
 layout: blocks
-title: " "
-image: ''
-description: ''
+title: Ukraine Donations
+image: "/v1648053401/1200px-Outline_of_Ukraine.svg_j0smn6.png"
+description: Donations for the people of Ukraine - Urgent Apeal
 body:
 - template: content-block
   title: Ukraine Donations
