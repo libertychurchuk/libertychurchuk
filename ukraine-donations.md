@@ -14,8 +14,5 @@ description: "<p>Here is an updated list of items urgently needed for the people
   the donations so far, they will be such a blessing to the people of Ukraine.</p>"
 image: "/v1648051038/1200px-Outline_of_Ukraine.svg_xjau4m.png"
 call_to_action: []
-menu:
-  sidebar:
-    weight: 1
 
 ---
