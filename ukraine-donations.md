@@ -1,7 +1,7 @@
 ---
 theme: Light
 image_type: Contain
-title: UKRAINE DONATIONS
+title: Ukraine Donations
 subtitle: ''
 description: "<p>Here is an updated list of items urgently needed for the people of
   Ukraine…</p><p>Dry &amp; tinned food</p><p>Toiletries</p><p>Sanitary Products</p><p>Nappies</p><p>Torches</p><p>Batteries</p><p>Shoes</p><p>Baby
@@ -17,6 +17,5 @@ call_to_action: []
 menu:
   sidebar:
     weight: 1
-    title: Ukraine Donations
 
 ---
