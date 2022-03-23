@@ -55,8 +55,6 @@ body:
   description: ''
   image: ''
 layout: blocks
-menu:
-  sidebar:
-    weight: 12
+published: false
 
 ---
