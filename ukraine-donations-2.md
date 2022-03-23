@@ -4,17 +4,6 @@ title: Ukraine Donations 3
 image: "/v1648052013/1200px-Outline_of_Ukraine.svg_mh1enz.png"
 description: ''
 body:
-- template: content-block
-  title: Ukraine Donations
-  size: Small
-  overlay_colour: rgb(49, 54, 64)
-  overlay_opacity: Opacity 30
-  background_image: "/v1648052515/1200px-Outline_of_Ukraine.svg_cz8wjq.png"
-  add_overlay_: true
-  subtitle: ''
-  description: ''
-  logo: ''
-  call_to_action: []
 - template: image-text-block
   theme: Light
   display: Wide
@@ -35,10 +24,20 @@ body:
     Gaer Christian Centre, Gaer Park Drive, NP20 3NN</p><p>———</p><h3><strong>Volunteers
     needed:</strong></h3><p>Packing boxes - Thursday 24th March from 6pm onwards</p><p>Loading
     lorry - Saturday 26th March 10.45am - 12pm</p><p>(At the Gaer CC)</p><p><em>Please
-    let us know if you can help at any of the times above.</em></p><p>———</p><p>Thank
-    you SO MUCH for all the donations so far, they will be such a blessing to the
-    people of Ukraine.</p>"
+    let us know if you can help at any of the times above.</em></p><p></p>"
   display_field: ''
+- template: image-text-block
+  theme: Light
+  display: Wide
+  text_alignment: Center
+  image_position: Right
+  image_type: Cover
+  title: " "
+  subtitle: Thank you SO MUCH for all the donations so far, they will be such a blessing
+    to the people of Ukraine.
+  description: ''
+  image: ''
+  call_to_action: []
 menu:
   sidebar:
     weight: 1
