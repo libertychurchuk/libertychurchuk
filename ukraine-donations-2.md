@@ -16,5 +16,9 @@ body:
     you SO MUCH for all the donations so far, they will be such a blessing to the
     people of Ukraine.</p>"
   display_field: ''
+menu:
+  sidebar:
+    weight: 1
+    title: Ukraine Donations
 
 ---
