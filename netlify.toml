@@ -1,5 +1,8 @@
 [[redirects]]
-from = "/genesisgathering"
+from = "/ukraine"
+to = "https://www.libertychurchuk.com/ukraine-donations-2.html"
+[[redirects]]
+from = "/thegathering"
 to = "genesis-collective-a20-gathering.html"
 [[redirects]]
 from = "/placesofliberty"
