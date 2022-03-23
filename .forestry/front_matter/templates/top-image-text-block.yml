@@ -70,5 +70,3 @@ fields:
   - donate-button
   config:
     max: '4'
-pages:
-- ukraine-donations.md

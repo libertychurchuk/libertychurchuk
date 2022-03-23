@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Ukraine Donations 3
+title: Ukraine Donations
 image: "/v1648052013/1200px-Outline_of_Ukraine.svg_mh1enz.png"
 description: ''
 body:
@@ -41,6 +41,5 @@ body:
 menu:
   sidebar:
     weight: 1
-    title: Ukraine Donations
 
 ---
