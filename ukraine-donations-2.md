@@ -4,6 +4,17 @@ title: Ukraine Donations 3
 image: "/v1648052013/1200px-Outline_of_Ukraine.svg_mh1enz.png"
 description: ''
 body:
+- template: image-text-block
+  theme: Light
+  display: Wide
+  title: Ukraine Donations
+  text_alignment: Center
+  image_position: Right
+  image_type: Contain
+  image: "/v1648052377/1200px-Outline_of_Ukraine.svg_d9gwao.png"
+  subtitle: ''
+  description: ''
+  call_to_action: []
 - template: text
   content: "<p>Here is an updated list of items urgently needed for the people of
     Ukraine…</p><p>Dry &amp; tinned food</p><p>Toiletries</p><p>Sanitary Products</p><p>Nappies</p><p>Torches</p><p>Batteries</p><p>Shoes</p><p>Baby
