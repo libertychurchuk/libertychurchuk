@@ -23,7 +23,7 @@ body:
     drop off:</strong></h3><p>Thursday 24th March 10am - 2pm, 6-7.30pm</p><p>At the
     Gaer Christian Centre, Gaer Park Drive, NP20 3NN</p><p>———</p><h3><strong>Volunteers
     needed:</strong></h3><p>Packing boxes - Thursday 24th March from 6pm onwards</p><p>Loading
-    lorry - Saturday 26th March 10.45am - 12pm</p><p>(At the Gaer CC)</p><p><em>Please
+    lorry - Saturday 26th March 9am - 12pm</p><p>(At the Gaer CC)</p><p><em>Please
     let us know if you can help at any of the times above.</em></p><p></p>"
   display_field: ''
 - template: image-text-block
