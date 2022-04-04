@@ -41,5 +41,6 @@ body:
 menu:
   sidebar:
     weight: 1
+published: false
 
 ---
