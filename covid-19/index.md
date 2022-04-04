@@ -9,7 +9,7 @@ last_updated:
 menu:
   sidebar:
     title: Coronavirus (COVID-19)
-    weight: 12
+    weight: 11
 
 ---
 During this season we encourage you to thank Jesus for His goodness and kindness. We together are a people full of faith and full of the Holy Spirit who are adaptable, and flexible to not let circumstances be the biggest voice, but rather allow Jesus to be glorified through this season.

@@ -38,9 +38,6 @@ body:
   description: ''
   image: ''
   call_to_action: []
-menu:
-  sidebar:
-    weight: 1
 published: false
 
 ---
