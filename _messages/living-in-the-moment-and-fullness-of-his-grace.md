@@ -1,7 +1,7 @@
 ---
 date: 2022-04-17 00:00:00 +0000
 author: _authors/graham-riley.md
-part: 0
+part: 
 file: "/2022/2022-04-17.mp3"
 title: Living in the moment and fullness of His grace
 scripture: Ephesians 1:3, Philippians 4:11-13, Ephesians 3:14-19
