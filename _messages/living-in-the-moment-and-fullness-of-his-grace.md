@@ -6,7 +6,8 @@ file: "/2022/2022-"
 title: Living in the moment and fullness of His grace
 scripture: ''
 description: 'Are we living in the moment or simply surviving? We have to live in
-  the freedom and victorious living given to us by God. '
+  the freedom and victorious living given to us by God. He is the God of the moment
+  and is with you in all circumstances. '
 series: ''
 duration: ''
 length: 
