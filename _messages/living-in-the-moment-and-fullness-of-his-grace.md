@@ -17,3 +17,9 @@ published: false
 
 ---
 > Life isn't about waiting for the storm to pass. It's about learning how to dance in the rain
+
+What then should enable us to live the victorious life despite our circumstances?
+
+Receive the revelation of who we are in Christ and walk in it. 
+
+By faith viewing our relationship with God the way he does. 
