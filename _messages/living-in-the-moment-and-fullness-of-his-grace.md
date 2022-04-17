@@ -16,8 +16,10 @@ notes: ''
 published: false
 
 ---
-![](https://res.cloudinary.com/libertychurchuk/image/upload/v1650191487/A65A602F-EC79-48AC-9E9C-A0CBEC6593F5_woywpz.jpg)  
-Life isn't about waiting for the storm to pass. It's about learning how to dance in the rain
+
+![](https://res.cloudinary.com/libertychurchuk/image/upload/v1650191487/A65A602F-EC79-48AC-9E9C-A0CBEC6593F5_woywpz.jpg)
+
+> Life isn't about waiting for the storm to pass. It's about learning how to dance in the rain
 
 What then should enable us to live the victorious life despite our circumstances?
 
