@@ -1,18 +1,15 @@
 ---
-date: 2022-04-10 10:30:00 +0000
-author: _authors/lois-hillier.md
-part: 3
-file: "/2022/2022-04-10.mp3"
+date: 2022-04-17 10:30:00 +0000
+author: _authors/graham-riley.md
+part: 0
+file: "/2022/2022-04-17.mp3"
 title: Living In The Moment & The Fullness Of His Grace
-scripture: 1 Corinthians 3:10-13
-description: 'Do we truly have understanding of our foundation? We can’t be effective
-  in sharing our faith if we don’t have that understanding. His word is more than
-  worldly experience. '
-series: _series/no-other-foundation.md
-duration: '19:00'
+scripture: Ephesians 1:3, Philippians 4:11-13 & Ephesians 3:14-19
+description: What then should enable us to live the victorious life despite our circumstances?
+series: ''
+duration: '34:40'
 length: 17
-image: "/v1650383630/THUMB_No_Other_Foundations_03-12_wdpava.png"
+image: "/v1650384204/THUMB_GrahamRiley_-13_wr2k8b.png"
 notes: ''
-published: false
 
 ---
