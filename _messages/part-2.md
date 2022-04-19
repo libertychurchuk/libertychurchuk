@@ -3,7 +3,7 @@ date: 2022-04-03 10:30:00 +0000
 author: _authors/phil-boalch.md
 part: 2
 file: "/2022/2022-04-03.mp3"
-title: No Other Foundations
+title: The What's & Why's Of Foundations
 scripture: 1 Corinthians 3:10-13
 description: 'Do we truly have understanding of our foundation? We can’t be effective
   in sharing our faith if we don’t have that understanding. His word is more than
