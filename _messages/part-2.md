@@ -4,8 +4,7 @@ author: _authors/phil-boalch.md
 part: 2
 file: "/2022/2022-04-03.mp3"
 title: Part 2
-scripture: Proverbs 10:25, 1 Corinthians 3:10-13, Philemon 1:6, Act 20:32, Luke 8:,
-  John 16:5-7
+scripture: 1 Corinthians 3:10-13
 description: 'Do we truly have understanding of our foundation? We can’t be effective
   in sharing our faith if we don’t have that understanding. His word is more than
   worldly experience. '
