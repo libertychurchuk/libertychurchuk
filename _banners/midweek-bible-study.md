@@ -6,6 +6,5 @@ background_image: "/v1632305459/smallgroups-31_jdjxh6.jpg"
 link: ''
 logo: ''
 expiry_date: 
-published: false
 
 ---
