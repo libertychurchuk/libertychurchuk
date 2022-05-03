@@ -1,16 +1,15 @@
 ---
-date: 2022-04-17 10:30:00 +0000
-author: _authors/graham-riley.md
-part: 
+date: 2022-04-24 10:30:00 +0000
+author: _authors/heath-van-staden.md
+part: 4
 file: "/2022/2022-04-17.mp3"
-title: Distraction To Delight
-scripture: Ephesians 1:3, Philippians 4:11-13 & Ephesians 3:14-19
-description: What then should enable us to live the victorious life despite our circumstances?
-series: ''
-duration: '34:40'
+title: Distraction To Delight - Part 1
+scripture: Ephesians 5:15-16, Matthew 6:33, Matthew 11:28-30, Matthew 4:1
+description: Do you have enough time to be an apprentice of Jesus?
+series: _series/no-other-foundation.md
+duration: '35:03'
 length: 17
-image: "/v1650384204/THUMB_GrahamRiley_-13_wr2k8b.png"
+image: "/v1651578745/THUMB_No_Other_Foundations_04-12_i0srlm.png"
 notes: ''
-published: false
 
 ---
