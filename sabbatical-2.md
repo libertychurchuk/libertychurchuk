@@ -5,6 +5,10 @@ description: A letter to the church...
 video: ''
 image: "/v1652173199/sabbatical_1920x1080_c3dhz1.png"
 last_updated: 
+menu:
+  sidebar:
+    title: Sabbatical
+    weight: 1
 
 ---
 **To our beautiful Liberty Church Family**
