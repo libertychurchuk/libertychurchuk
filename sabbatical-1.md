@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Sabbatical
+title: ''
 image: "/v1652174747/sabbatical_1920x1080_nokhgo.png"
 description: ''
 body:
