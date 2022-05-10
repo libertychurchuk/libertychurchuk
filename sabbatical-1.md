@@ -5,7 +5,7 @@ image: "/v1652174747/sabbatical_1920x1080_nokhgo.png"
 description: ''
 body:
 - template: content-block
-  title: Sabbatical
+  title: " "
   size: Small
   overlay_colour: rgb(49, 54, 64)
   overlay_opacity: Opacity 30
