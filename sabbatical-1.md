@@ -93,5 +93,8 @@ body:
     time.</p><p>We love you and pray blessing over each of you.</p><p>Thank you Jesus
     for what lies ahead,</p><p><strong>Heath &amp; Leah van Staden</strong></p>"
   display_field: ''
+menu:
+  sidebar:
+    weight: 1
 
 ---
