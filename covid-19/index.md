@@ -6,9 +6,6 @@ description: An update from the Eldership of Liberty Church
 image: "/v1652171919/sabbatical_1920x1080_hq7rdj.png"
 video: ''
 last_updated: 
-menu:
-  sidebar:
-    weight: 11
 published: false
 
 ---
