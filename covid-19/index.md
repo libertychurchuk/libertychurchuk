@@ -8,7 +8,6 @@ video: ''
 last_updated: 
 menu:
   sidebar:
-    title: Coronavirus (COVID-19)
     weight: 11
 
 ---
