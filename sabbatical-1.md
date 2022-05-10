@@ -1,11 +1,11 @@
 ---
 layout: blocks
 title: Sabbatical
-image: ''
+image: "/v1652174337/sabbatical_1920x1080_xotzqv.png"
 description: ''
 body:
 - template: content-block
-  title: e.g. New to church
+  title: Sabbatical
   size: Small
   overlay_colour: rgb(49, 54, 64)
   overlay_opacity: Opacity 30
