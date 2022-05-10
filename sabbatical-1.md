@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Sabbatical 3
-image: "/v1652174337/sabbatical_1920x1080_xotzqv.png"
+image: "/v1652174747/sabbatical_1920x1080_nokhgo.png"
 description: ''
 body:
 - template: content-block
