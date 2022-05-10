@@ -9,6 +9,7 @@ last_updated:
 menu:
   sidebar:
     weight: 11
+published: false
 
 ---
 **To our beautiful Liberty Church Family**
