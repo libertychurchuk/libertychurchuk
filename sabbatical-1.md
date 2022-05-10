@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Sabbatical 3
+title: Sabbatical
 image: "/v1652174747/sabbatical_1920x1080_nokhgo.png"
 description: ''
 body:
@@ -11,8 +11,8 @@ body:
   overlay_opacity: Opacity 30
   subtitle: ''
   description: ''
-  logo: "/v1652174747/sabbatical_1920x1080_nokhgo.png"
-  background_image: ''
+  logo: ''
+  background_image: "/v1652174933/sabbatical_1920x1080_fsuale.png"
   add_overlay_: false
   call_to_action: []
 - template: text
