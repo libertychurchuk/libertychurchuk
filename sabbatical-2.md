@@ -85,9 +85,6 @@ image_position: Right
 image_type: Cover
 subtitle: A letter to the church...
 call_to_action: []
-menu:
-  sidebar:
-    weight: 2
 
 ---
 **To our beautiful Liberty Church Family**
