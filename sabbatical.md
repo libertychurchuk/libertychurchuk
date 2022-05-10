@@ -5,7 +5,7 @@ subtitle: A letter to the church...
 image: "/v1652172840/sabbatical_1920x1080_d8qoru.png"
 menu:
   sidebar:
-    weight: 11
+    weight: 1
 
 ---
 **To our beautiful Liberty Church Family**
