@@ -11,7 +11,7 @@ body:
   overlay_opacity: Opacity 30
   subtitle: ''
   description: ''
-  logo: ''
+  logo: "/v1652174314/sabbatical_1920x1080_x2x5qn.png"
   background_image: ''
   add_overlay_: false
   call_to_action: []
