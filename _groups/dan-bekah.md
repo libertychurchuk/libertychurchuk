@@ -1,7 +1,7 @@
 ---
 title: Dan & Bekah
 leaders: " "
-description: "<p>Join us for teas together as families on a Thursday at the Gaer CC.</p>"
+description: "<p>Join us for tea together as families on a Thursday at the Gaer CC.</p>"
 location: Gaer CC
 day: Thursdays at 5pm
 time: ''
