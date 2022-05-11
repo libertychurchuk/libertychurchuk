@@ -45,6 +45,7 @@ fields:
   label: Photo
   description: A photo of the group leaders
 pages:
+- _groups/dan-bekah.md
 - _groups/graeme-nicolette-de-villiers.md
 - _groups/karl-karen-o-dare-kobby-dina-poku.md
 - _groups/phil-boalch.md
