@@ -45,6 +45,7 @@ fields:
   hidden: true
 pages:
 - _banners/alpha-online.md
+- _banners/child-dedications.md
 - _banners/christmas-eve.md
 - _banners/church-online.md
 - _banners/easter-at-liberty-church.md
