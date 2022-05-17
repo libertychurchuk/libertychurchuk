@@ -1,7 +1,7 @@
 ---
 title: Phil Boalch
 leaders: " "
-description: "<p>(This group is FULL)</p>"
+description: "<p></p>"
 location: Newport
 day: Wednesdays at 7.30pm
 time: ''
