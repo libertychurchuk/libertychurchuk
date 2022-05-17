@@ -5,7 +5,7 @@ part: 6
 file: "/2022/2022-05-15.mp3"
 title: Generation To Generation
 scripture: Ephesians 5:15-16, Matthew 6:33, Matthew 11:28-30, Matthew 4:1
-description: ''
+description: Do you have enough time to be an apprentice of Jesus?
 series: _series/no-other-foundation.md
 duration: '17:51'
 length: 17
