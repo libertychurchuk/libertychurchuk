@@ -1,16 +1,15 @@
 ---
-date: 2022-04-24 10:30:00 +0000
-author: _authors/heath-van-staden.md
-part: 4
-file: "/2022/2022-04-24.mp3"
-title: Apostolic Input
-scripture: Ephesians 5:15-16, Matthew 6:33, Matthew 11:28-30, Matthew 4:1
+date: 2022-05-08 10:30:00 +0000
+author: _authors/rob-hutton.md
+part: 
+file: "/2022/2022-05-08.mp3"
+title: 'Apostolic Input: Sabbatical'
+scripture: ''
 description: Do you have enough time to be an apprentice of Jesus?
-series: _series/no-other-foundation.md
-duration: '35:03'
+series: ''
+duration: '17:56'
 length: 17
-image: "/v1651578745/THUMB_No_Other_Foundations_04-12_i0srlm.png"
+image: "/v1652783894/Web_AudioGraphics-02_abptww.png"
 notes: ''
-published: false
 
 ---
