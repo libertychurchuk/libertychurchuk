@@ -50,7 +50,7 @@
 					{% if item.scripture.size > 1 %} | Scripture: {{ item.scripture }}{% endif %}
 				{%- endif -%}
 			</itunes:summary>
-			<itunes:image href="{{ site.url }}/assets/images/itunes.png" />
+			<itunes:image href="{{ site.cloudinary_url }}/b_auto:border,c_pad,w_1400,h_1400,c_fill/f_auto{{item.image}}" />
 			<enclosure url="https://s3.eu-west-2.amazonaws.com/messages.libertychurchuk.com/data{{ item.file }}" length="{{ item.length }}" type="audio/mp3"/>
 			<guid isPermaLink="true">{{ site.url }}{{ item.url }}</guid>
 			<pubDate>{{ item.date | date_to_rfc822 }}</pubDate>
