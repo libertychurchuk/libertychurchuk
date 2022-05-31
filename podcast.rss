@@ -1,5 +1,7 @@
 ---
 ---
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
 	<channel>
@@ -35,7 +37,7 @@
 		{%- assign series = site.series | where: 'relative_path', item.series | first -%}	
 		{% assign author = site.authors | where: 'relative_path', item.author | first %}
 		<item>
-			<itunes:title>{% if item.part.size > 1 %}Part {{ item.part }}: {% endif %}{{ item.title | lstrip | xml_escape }}</title>
+			<itunes:title>{% if item.part.size > 1 %}Part {{ item.part }}: {% endif %}{{ item.title | lstrip | xml_escape }}</itunes:title>
 			<itunes:author>{% if item.author.size > 1 %}{{ author.title }}{% endif %}</itunes:author>
 			<itunes:summary>
 				{%- if item.series.size > 1 -%}
