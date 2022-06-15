@@ -9,5 +9,5 @@ menu:
 
 ---
 <div class="aspect-ratio aspect-ratio--9x16">
-<iframe frameborder="0" height="800" scrolling="no" src="https://libertychurchwales.churchsuite.com/embed/calendar/events" style="border-width:0" width="100%" class="aspect-ratio--object"></iframe>
+<iframe frameborder="0" height="928" scrolling="no" src="https://libertychurchwales.churchsuite.com/embed/calendar/events" style="border-width:0" width="100%" class="aspect-ratio--object"></iframe>
 </div>
