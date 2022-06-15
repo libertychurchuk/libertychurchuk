@@ -35,6 +35,8 @@ margin-left: auto;
 margin-right: auto;
 display: block;
 overflow: visible;
+position: relative;
+z-index: 1;
 
   @include medium {
   max-width: 60em;
