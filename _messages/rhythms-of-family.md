@@ -11,7 +11,7 @@ description: 'Do we truly have understanding of our foundation? We can’t be ef
 series: ''
 duration: '17:25'
 length: 17
-image: "/v1655308882/Web_AudioGraphics-04_okvcfq.png"
+image: "/v1655309700/Web_AudioGraphics-04_aj06td.png"
 notes: ''
 
 ---
