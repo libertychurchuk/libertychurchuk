@@ -1,5 +1,5 @@
 ---
-date: 2022-06-05 10:30:00 +0000
+date: 2022-06-05T10:30:00.000+00:00
 author: _authors/matt-larson.md
 part: 
 file: "/2022/2022-06-12.mp3"
@@ -11,7 +11,7 @@ description: 'Do we truly have understanding of our foundation? We can’t be ef
 series: ''
 duration: '17:25'
 length: 17
-image: "/v1655284555/Web_AudioGraphics-03-03_bxpfra.png"
+image: "/v1655308882/Web_AudioGraphics-04_okvcfq.png"
 notes: ''
 
 ---
