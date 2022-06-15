@@ -11,7 +11,7 @@ description: 'Do we truly have understanding of our foundation? We can’t be ef
 series: ''
 duration: '17:25'
 length: 17
-image: "/v1655283473/Matt_KristenLarson_20thFeb_sm-02_t4dopj.png"
+image: "/v1655284555/Web_AudioGraphics-03-03_bxpfra.png"
 notes: ''
 
 ---
