@@ -3,3 +3,19 @@ sidebar:
 - url: "/privacy-policy"
   title: Privacy policy
   weight: 3
+primary:
+- url: "/new-to-church"
+  title: I'm new
+  weight: 1
+- url: "/our-story"
+  title: Our story
+  weight: 2
+- url: "/get-involved"
+  title: Get involved
+  weight: 3
+- url: "/events"
+  title: Events
+  weight: 4
+- url: "/#contact"
+  title: Contact
+  weight: 5
