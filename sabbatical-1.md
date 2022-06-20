@@ -95,6 +95,6 @@ body:
   display_field: ''
 menu:
   sidebar:
-    weight: 1
+    weight: 3
 
 ---

@@ -6,4 +6,4 @@ primary:
 sidebar:
 - url: "/privacy-policy"
   title: Privacy policy
-  weight: 3
+  weight: 4
