@@ -10,4 +10,4 @@ menu:
     weight: 4
 
 ---
-<iframe frameborder="0" height="644" scrolling="no" src="https://libertychurchwales.churchsuite.com/embed/calendar/events" style="border-width:0" width="100%" class="space--vertical"></iframe>
+<iframe frameborder="0" height="644" scrolling="yes" src="https://libertychurchwales.churchsuite.com/embed/calendar/events" style="border-width:0" width="100%" class="space--vertical"></iframe>
