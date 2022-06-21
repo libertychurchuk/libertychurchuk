@@ -50,8 +50,5 @@ description: "<p><br></p><h2><strong>Policy Statement on Safeguarding</strong></
   Date: 21/06/2022</p><p></p><p><br></p>"
 image: ''
 call_to_action: []
-menu:
-  sidebar:
-    weight: 5
 
 ---

@@ -3,6 +3,10 @@ layout: page
 title: Safeguarding Policy 2
 subtitle: ''
 image: ''
+menu:
+  sidebar:
+    weight: 5
+    title: Safeguarding Policy
 published: false
 
 ---
