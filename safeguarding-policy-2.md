@@ -7,7 +7,6 @@ menu:
   sidebar:
     weight: 5
     title: Safeguarding Policy
-published: false
 
 ---
 ## **Policy Statement on Safeguarding**
