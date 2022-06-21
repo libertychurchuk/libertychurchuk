@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Safeguarding Policy 2
+title: Safeguarding Policy
 subtitle: ''
 image: ''
 menu:
   sidebar:
     weight: 5
-    title: Safeguarding Policy
 
 ---
 ## **Policy Statement on Safeguarding**
