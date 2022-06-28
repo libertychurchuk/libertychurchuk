@@ -1,19 +1,18 @@
 ---
-date: 2022-06-19 10:30:00 +0000
+date: 2022-06-26 10:30:00 +0000
 author: _authors/heath-van-staden.md
-part: 10
-file: "/2022/2022-06-19.mp3"
+part: 11
+file: "/2022/2022-06-26.mp3"
 title: No Other Foundation - Part 11
-scripture: 1 Corinthians thanks 3:1-9 (This Sunday's Scripture) Hebrews 10:24-25,
+scripture: 1 Corinthians thanks 3:9-18 (This Sunday's Scripture) Hebrews 10:24-25,
   Hebrews 4:12, Proverbs 30:5, Deuteronomy 11:18-21
 description: 'Do we truly have understanding of our foundation? We can’t be effective
   in sharing our faith if we don’t have that understanding. His word is more than
   worldly experience. '
 series: _series/no-other-foundation.md
-duration: '40:24'
+duration: '37:42'
 length: 17
-image: "/v1656410889/Web_AudioGraphics_10-01_sdvkht.png"
+image: "/v1656411002/Web_AudioGraphics_11-01_usprlc.png"
 notes: ''
-published: false
 
 ---
