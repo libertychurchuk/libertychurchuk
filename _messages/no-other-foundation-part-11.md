@@ -3,7 +3,7 @@ date: 2022-06-26 10:30:00 +0000
 author: _authors/heath-van-staden.md
 part: 11
 file: "/2022/2022-06-26.mp3"
-title: No Other Foundation - Part 11
+title: No Other Foundation
 scripture: 1 Corinthians thanks 3:9-18 (This Sunday's Scripture) Hebrews 10:24-25,
   Hebrews 4:12, Proverbs 30:5, Deuteronomy 11:18-21
 description: 'Do we truly have understanding of our foundation? We can’t be effective
