@@ -1,14 +1,17 @@
 ---
-date: 2022-06-05 10:30:00 +0000
+date: 2022-06-05T10:30:00.000+00:00
 author: _authors/heath-van-staden.md
 part: 9
 file: "/2022/2022-06-05.mp3"
 title: No Other Foundation - Part 2
-scripture: 1 Corinthians thanks 2:1-16 (This Sunday's Scripture) Hebrews 10:24-25,
-  Hebrews 4:12, Proverbs 30:5, Deuteronomy 11:18-21
-description: 'Do we truly have understanding of our foundation? We can’t be effective
-  in sharing our faith if we don’t have that understanding. His word is more than
-  worldly experience. '
+scripture: 1 Corinthians 2:1-16, Hebrews 10:24-25, Hebrews 4:12, Proverbs 30:5, Deuteronomy
+  11:18-21
+description: 'Building towards our key scripture in 1 Cor 3:11, Paul come to the church
+  in Corinth to comfort, challenge and correct them. He remind them nothing is being
+  withheld, but their maturity is in question and therefore they are lacking application.
+  So much available to us as believers in Christ, knowing the depth of God - because
+  we have the Holy Spirit living us, the Spirit of God. We get to choose our rate
+  of maturity, depending on how we engage with grace and truth. '
 series: _series/no-other-foundation.md
 duration: '46:32'
 length: 17
