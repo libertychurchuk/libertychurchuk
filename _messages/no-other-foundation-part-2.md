@@ -4,8 +4,7 @@ author: _authors/heath-van-staden.md
 part: 9
 file: "/2022/2022-06-05.mp3"
 title: No Other Foundation - Part 2
-scripture: 1 Corinthians 2:1-16, Hebrews 10:24-25, Hebrews 4:12, Proverbs 30:5, Deuteronomy
-  11:18-21
+scripture: '1 Cor 2: 1- 10'
 description: 'Building towards our key scripture in 1 Cor 3:11, Paul come to the church
   in Corinth to comfort, challenge and correct them. He remind them nothing is being
   withheld, but their maturity is in question and therefore they are lacking application.
