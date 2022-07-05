@@ -1,21 +1,19 @@
 ---
-date: 2022-06-26 10:30:00 +0000
-author: _authors/heath-van-staden.md
-part: 11
-file: "/2022/2022-06-26.mp3"
-title: No Other Foundation-(copy)
-scripture: 1 Corinthians 3:1-15
-description: 'Paul reminds us that we have the mind of Christ and the Holy Spirit
-  livening in us. We are Gods field and His building. There is a grace upon each of
-  us to build, be, walk in all Jesus has for us. You and me are a gift to one another.
-  We are best when we truly partner together. Partnership is the key thought as we
-  unpack this passage, biblical, real, invested partnership. And all can only be built
-  on a solid sure foundation, no other than Jesus. '
+date: 2022-07-03 10:30:00 +0000
+author: _authors/koby-poku.md
+part: 12
+file: "/2022/2022-07-03.mp3"
+title: When You See Him
+scripture: Phil. 3:1-8; Romans 1:21; Acts 16:16-34
+description: "When Paul SAW HIM, He said: \n“I count ALL THINGS loss for the excellence
+  of the knowledge of Christ Jesus… and I count them as rubbish, that I may GAIN Christ
+  - Phil. 3:1-8. \nIt’s not enough to see/know God, but give Him His place in every
+  area of your life and circumstance accordingly. By glorifying Him for who He is,
+  not just for what he can do or will do."
 series: _series/no-other-foundation.md
-duration: '37:42'
+duration: '48:52'
 length: 17
-image: "/v1656411002/Web_AudioGraphics_11-01_usprlc.png"
+image: "/v1657014171/07-03_tjqsy9.png"
 notes: ''
-published: false
 
 ---
