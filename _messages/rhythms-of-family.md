@@ -1,5 +1,5 @@
 ---
-date: 2022-06-05T10:30:00.000+00:00
+date: 2022-06-12 10:30:00 +0000
 author: _authors/matt-larson.md
 part: 
 file: "/2022/2022-06-12.mp3"
