@@ -4,17 +4,16 @@ author: _authors/gareth-hillier.md
 part: 0
 file: "/2022/2022-07-10.mp3"
 title: Family Meeting
-scripture: Phil. 3:1-8; Romans 1:21; Acts 16:16-34
-description: "When Paul SAW HIM, He said: \n“I count ALL THINGS loss for the excellence
-  of the knowledge of Christ Jesus… and I count them as rubbish, that I may GAIN Christ
-  - Phil. 3:1-8. \nIt’s not enough to see/know God, but give Him His place in every
-  area of your life and circumstance accordingly. By glorifying Him for who He is,
-  not just for what he can do or will do."
+scripture: Romans 12:4-8 Ephesians 2:19-22
+description: Recognising that it is Jesus who builds the church and we are invited
+  in to family. Family looks different and we often have different roles and seasons
+  but we are still part of the family. God has given us gifts and passions and they
+  are for His glory. It is not about just fulfilling function but recognising we have
+  a place and a space in the family.
 series: ''
 duration: '53:14'
 length: 17
 image: "/v1657543663/Web_AudioGraphics-06_zxl0xf.png"
 notes: ''
-published: false
 
 ---
