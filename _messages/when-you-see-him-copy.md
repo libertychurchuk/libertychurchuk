@@ -13,7 +13,7 @@ description: Recognising that it is Jesus who builds the church and we are invit
 series: ''
 duration: '53:14'
 length: 17
-image: "/v1657543663/Web_AudioGraphics-06_zxl0xf.png"
+image: "/v1657550333/Web_AudioGraphics-06_xxc4ah.png"
 notes: ''
 
 ---
