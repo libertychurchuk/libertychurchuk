@@ -1,7 +1,7 @@
 ---
 date: 2022-07-10 10:30:00 +0000
 author: _authors/gareth-hillier.md
-part: 0
+part: 
 file: "/2022/2022-07-10.mp3"
 title: Family Meeting
 scripture: Romans 12:4-8 Ephesians 2:19-22
