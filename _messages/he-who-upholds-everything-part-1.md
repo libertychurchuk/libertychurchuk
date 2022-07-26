@@ -1,22 +1,22 @@
 ---
-date: 2022-07-17 10:30:00 +0000
-author: _authors/koby-poku.md
-part: 13
-file: "/2022/2022-07-17.mp3"
+date: 2022-07-24 10:30:00 +0000
+author: _authors/phil-boalch.md
+part: 14
+file: "/2022/2022-07-24.mp3"
 title: He Who Upholds Everything - Part 1
-scripture: 2 Tim. 3:14-15; Heb. 5:12-14; 1Tim 4:7-9
-description: "An important element of the study of the Word is, the Word grant you
-  2 things:\n\nKnowledge - I know, I know I’m born again, I’m a son/daughter of God
-  etc.\n\nSkillfulness - a function of consistent exposure to the knowledge. Paul
-  in 2Tim 3:14 told Timothy “To continue”. Continue here meaning to “dwell” “abide”,
-  to be steadfast at something and to be consistent at it. \n\nThat consistency grants
-  you a skill. Skilful meaning to relate with the Word from a more experiential point
-  of view. UnSkilful meaning by not exercising yourself. Heb. 5:12-14."
+scripture: 1 Corinthians 3:11
+description: 'Whether we look up at the night sky and observe the universe in all
+  its splendour. Take notice of the mountains, hills and fields that surround us and
+  marvel at their forms and colours. Or look into the eyes of someone we love and
+  imagine the depth of complexity that goes into producing such a wondrous and beautiful
+  creation. Do we ever stop to consider what and who underpins every molecule that
+  goes towards holding everything that we can see together. In this message we are
+  going to look at Jesus, the Alpha and the Omega, the Rock of our salvation upon
+  which all that was made exists, rests and is built upon. '
 series: _series/no-other-foundation.md
-duration: '40:44'
+duration: '41:42'
 length: 17
-image: "/v1657014171/07-03_tjqsy9.png"
+image: "/v1658830530/Web_AudioGraphics-03_q8f8sd.png"
 notes: ''
-published: false
 
 ---
