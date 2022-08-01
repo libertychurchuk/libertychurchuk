@@ -1,8 +1,8 @@
 ---
 date: 2022-07-24 10:30:00 +0000
 author: _authors/phil-boalch.md
-part: 14
-file: "/2022/2022-07-24.mp3"
+part: 15
+file: "/2022/2022-07-31.mp3"
 title: He Who Upholds Everything - Part 2
 scripture: 1 Corinthians 3:11
 description: 'Whether we look up at the night sky and observe the universe in all
@@ -14,10 +14,9 @@ description: 'Whether we look up at the night sky and observe the universe in al
   going to look at Jesus, the Alpha and the Omega, the Rock of our salvation upon
   which all that was made exists, rests and is built upon. '
 series: _series/no-other-foundation.md
-duration: '41:42'
+duration: '56:05'
 length: 17
-image: "/v1658830530/Web_AudioGraphics-03_q8f8sd.png"
+image: "/v1659361553/07-03_jwxhhd.png"
 notes: ''
-published: false
 
 ---
