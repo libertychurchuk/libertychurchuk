@@ -16,7 +16,7 @@ description: 'Whether we look up at the night sky and observe the universe in al
 series: _series/no-other-foundation.md
 duration: '56:05'
 length: 17
-image: "/v1659361553/07-03_jwxhhd.png"
+image: "/v1659361957/Web_AudioGraphics-03_srlryc.png"
 notes: ''
 
 ---
