@@ -1,23 +1,18 @@
 ---
-date: 2022-07-24 10:30:00 +0000
-author: _authors/phil-boalch.md
-part: 15
-file: "/2022/2022-07-31.mp3"
+date: 2022-08-07 10:30:00 +0000
+author: _authors/adam-howard.md
+part: 16
+file: "/2022/2022-08-07.mp3"
 title: Not To Bad - Joy
 scripture: 1 Corinthians 3:11
-description: 'Whether we look up at the night sky and observe the universe in all
-  its splendour. Take notice of the mountains, hills and fields that surround us and
-  marvel at their forms and colours. Or look into the eyes of someone we love and
-  imagine the depth of complexity that goes into producing such a wondrous and beautiful
-  creation. Do we ever stop to consider what and who underpins every molecule that
-  goes towards holding everything that we can see together. In this message we are
-  going to look at Jesus, the Alpha and the Omega, the Rock of our salvation upon
-  which all that was made exists, rests and is built upon. '
+description: |-
+  Ever replied to the question, “How are you?” with a fairly middle of the road response of “not too bad.”?
+
+  As people of faith, our lives should be watermarked with joy. Sometimes it can feel like this life has robbed your joy. If you have lost your joy, there is a way back; gratitude.
 series: _series/no-other-foundation.md
-duration: '56:05'
+duration: '40:49'
 length: 17
-image: "/v1659361957/Web_AudioGraphics-03_srlryc.png"
+image: "/v1660167488/Web_AudioGraphics-07_g0o85n.png"
 notes: ''
-published: false
 
 ---
