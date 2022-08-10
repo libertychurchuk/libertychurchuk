@@ -3,8 +3,8 @@ date: 2022-08-07 10:30:00 +0000
 author: _authors/adam-howard.md
 part: 16
 file: "/2022/2022-08-07.mp3"
-title: Not To Bad - Joy
-scripture: 1 Corinthians 3:11
+title: Not To Bad - Finding Your Joy
+scripture: 2 Corinthians 3:18, Galatians 5:22-23, Hebrews 12:2, Habakkuk 3:17-19
 description: |-
   Ever replied to the question, “How are you?” with a fairly middle of the road response of “not too bad.”?
 
