@@ -1,19 +1,17 @@
 ---
-date: 2022-08-07 10:30:00 +0000
-author: _authors/adam-howard.md
-part: 16
-file: "/2022/2022-08-07.mp3"
+date: 2022-08-14 10:30:00 +0000
+author: _authors/gareth-hillier.md
+part: 17
+file: "/2022/2022-08-14.mp3"
 title: Be Found
-scripture: 2 Corinthians 3:18, Galatians 5:22-23, Hebrews 12:2, Habakkuk 3:17-19
-description: |-
-  Ever replied to the question, “How are you?” with a fairly middle of the road response of “not too bad.”?
-
-  As people of faith, our lives should be watermarked with joy. Sometimes it can feel like this life has robbed your joy. If you have lost your joy, there is a way back; gratitude.
+scripture: Philippians 3:9
+description: In life it is not just about where we find ourselves in life but it is
+  in who we are found. In life we may find ourselves completely overwhelmed, our hope
+  is not in the circumstances we find ourselves its where we are found, found in Jesus.
 series: _series/no-other-foundation.md
-duration: '40:49'
+duration: '30:09'
 length: 17
-image: "/v1660167488/Web_AudioGraphics-07_g0o85n.png"
+image: "/v1660559507/Web_AudioGraphics-03_jrawe8.png"
 notes: ''
-published: false
 
 ---
