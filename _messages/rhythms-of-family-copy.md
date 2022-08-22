@@ -1,18 +1,16 @@
 ---
-date: 2022-06-12 10:30:00 +0000
-author: _authors/matt-larson.md
+date: 2022-08-21 10:30:00 +0000
+author: _authors/rob-hutton.md
 part: 
-file: "/2022/2022-06-12.mp3"
-title: Rhythms of Family-(copy)
-scripture: Deuteronomy 2:4-9
-description: 'Do we truly have understanding of our foundation? We can’t be effective
-  in sharing our faith if we don’t have that understanding. His word is more than
-  worldly experience. '
+file: "/2022/2022-08-21.mp3"
+title: Let Us
+scripture: Hebrews 10:19-25, Matthew 27:51, Hebrews 6:13-19
+description: 'An exhortation  from Hebrews to respond to the finished work of Jesus
+  by drawing near, holding onto hope and stirring one another up in love. '
 series: ''
-duration: '17:25'
+duration: '44:13'
 length: 17
-image: "/v1655309700/Web_AudioGraphics-04_aj06td.png"
+image: "/v1661174709/Web_AudioGraphics_RobHutton-07_hsn1mp.png"
 notes: ''
-published: false
 
 ---
