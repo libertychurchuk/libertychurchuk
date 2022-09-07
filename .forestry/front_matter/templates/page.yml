@@ -25,5 +25,6 @@ fields:
   default: page
   hidden: false
 pages:
+- "./events-copy.md"
 - events.md
 - safeguarding-policy-2.md
