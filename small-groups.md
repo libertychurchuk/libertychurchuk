@@ -4,6 +4,8 @@ title: Small Groups
 subtitle: Join a small group throughout the week!
 image: ''
 menu:
+  sidebar:
+    weight: 2
   primary:
     weight: 6
 

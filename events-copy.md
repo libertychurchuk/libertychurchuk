@@ -3,9 +3,6 @@ layout: page
 title: Small Groups
 subtitle: Get involved in one of our small groups throughout the week!
 image: ''
-menu:
-  sidebar:
-    weight: 2
 published: false
 
 ---
