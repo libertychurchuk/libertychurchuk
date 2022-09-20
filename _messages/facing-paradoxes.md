@@ -1,7 +1,7 @@
 ---
 date: 2022-08-28 10:30:00 +0000
 author: _authors/francis-davies.md
-part: 0
+part: 
 file: "/2022/2022-08-28.mp3"
 title: Facing Paradoxes...
 scripture: John 21,Romans 12:1-2 & 1 Samuel 9
