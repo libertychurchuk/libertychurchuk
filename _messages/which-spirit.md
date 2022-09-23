@@ -1,5 +1,5 @@
 ---
-date: 2022-02-27 00:00:00 +0000
+date: 2022-02-27T00:00:00.000+00:00
 author: _authors/heath-van-staden.md
 part: 
 file: "/2022/2022-02-27.mp3"
@@ -13,7 +13,7 @@ description: Which spirit is going to be the overwhelming voice into our lives a
   so that you give thought to what or who is actually directing you?
 series: ''
 duration: '53:50'
-length: 
+length: 64605434
 image: ''
 notes: ''
 
