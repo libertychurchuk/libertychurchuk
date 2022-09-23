@@ -47,7 +47,7 @@
 					{{ item.description | strip_newlines | xml_escape }}
 				{%- else -%}	
 					{%- if item.author.size > 1 -%}Speaker: {{ author.title }}{%- endif -%}
-					{% if item.scripture.size > 1 %} | Scripture: {{ item.scripture }}{% endif %}
+					{% if item.scripture.size > 1 %} | Scripture: {{ item.scripture | xml_escape }}{% endif %}
 				{%- endif -%}
 			</itunes:summary>
 			{% if item.image.size > 1  %}
