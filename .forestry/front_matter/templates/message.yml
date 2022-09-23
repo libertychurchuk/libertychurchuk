@@ -77,7 +77,10 @@ fields:
   name: length
   label: File size
   hidden: false
-  description: This is used by iTunes
+  description: This needs to be the full file size found when pressing CMD-I in the
+    Mac finder without the commas e.g 54,085,402 should be typed as 54085402
+  config:
+    required: true
 - type: file
   name: image
   label: Image
