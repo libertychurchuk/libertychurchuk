@@ -1,5 +1,5 @@
 ---
-date: 2021-09-12 10:30:40 +0000
+date: 2021-09-12T10:30:40.000+00:00
 author: _authors/heath-van-staden.md
 part: 
 file: "/2021/2021-09-12.mp3"
@@ -10,7 +10,7 @@ description: The body; the truth is you are included, you fit perfectly, so donâ
   for a mature bride. One where people are seen and loved.
 series: ''
 duration: '28:04'
-length: 
+length: 33685336
 image: ''
 notes: ''
 
