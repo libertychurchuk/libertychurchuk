@@ -32,6 +32,8 @@ fields:
 - type: text
   name: scripture
   label: Key Scripture
+  description: Use a comma to separate scriptures, dont add characters like &amp;
+    and such.
 - type: datetime
   name: date
   label: Date

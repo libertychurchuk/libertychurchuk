@@ -4,7 +4,7 @@ author: _authors/koby-poku.md
 part: 18
 file: "/2022/2022-09-04.mp3"
 title: Who Are You Becoming?
-scripture: Matthew 4:18-20 & Colossians 2:6-10
+scripture: Matthew 4:18-20, Colossians 2:6-10
 description: "It can be easy to look at the future with rose-colored glasses. After
   all, everything is better in the future. You have a deeper relationship with God
   in the future. You are a better spouse in the future. You’re a better parent in
