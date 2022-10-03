@@ -8,7 +8,7 @@ scripture: Luke 1
 description: ''
 series: ''
 duration: '30:53'
-length: 17
+length: 11124165
 image: "/v1664801092/Web_AudioGraphics-07_hsgsgc.png"
 notes: ''
 
