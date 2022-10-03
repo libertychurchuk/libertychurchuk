@@ -4,7 +4,7 @@ date: 2022-10-02 10:30:20 +0000
 author: _authors/phil-boalch.md
 file: "/2022/2022-10-02.mp3"
 title: Who are they? Where are they?
-series: ''
+series: _series/rebuild-restore-renew.md
 scripture: Isaiah 61:1-4, Luke 4:18, Matthew 28 + Mark 16
 description: |-
   Has the present day church lost sight of what making disciples
@@ -23,6 +23,5 @@ duration: '32:59'
 length: 11882325
 image: "/v1664801629/RRR_Web_AudioGraphics_01-03_zud4fr.png"
 notes: ''
-published: false
 
 ---
