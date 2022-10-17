@@ -1,8 +1,8 @@
 ---
-part: 1
-date: 2022-10-02 10:30:20 +0000
+part: 3
+date: 2022-10-16 10:30:20 +0000
 author: _authors/phil-boalch.md
-file: "/2022/2022-10-02.mp3"
+file: "/2022/2022-10-16.mp3"
 title: Who are they? Where are they? Part 2
 series: _series/rebuild-restore-renew.md
 scripture: Isaiah 61:1-4, Luke 4:18, Matthew 28 + Mark 16
@@ -19,10 +19,9 @@ description: |-
   continuation with the great commissioning of the church in
   Matthew 28 and Mark 16. Then from these chapters and verses,
   compare the condition and beliefs of the present day church.
-duration: '32:59'
-length: 11882325
-image: "/v1664801629/RRR_Web_AudioGraphics_01-03_zud4fr.png"
+duration: '44:17'
+length: 15946797
+image: "/v1666000983/Web_AudioGraphics-03_gc6bar.png"
 notes: ''
-published: false
 
 ---
