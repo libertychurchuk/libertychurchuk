@@ -1,19 +1,18 @@
 ---
-part: 4
-date: 2022-10-23 10:30:20 +0000
-author: _authors/heath-van-staden.md
-file: "/2022/2022-10-23.mp3"
-title: Because of the because
+part: 5
+date: 2022-10-30 10:30:20 +0000
+author: _authors/phil-boalch.md
+file: "/2022/2022-10-30.mp3"
+title: Because of the Because
 series: _series/rebuild-restore-renew.md
-scripture: Isaiah 61:1-5
-description: "If the truth is there is a ME; The Spirit of The Lord is upon ME, He
-  has anointed Me, He has sent ME; \nThen there can definitely be a THEY; who restore,
-  renew, rebuild. \n\nListen to this message off hope, challenge, passion and invitation
-  to know that the life of a believer in Christ is one of adventure. "
-duration: '47:19'
-length: 17042349
-image: "/v1667075827/Web_AudioGraphics_RRR-03_yiwgty.png"
+scripture: Isaiah 61:1-5; Psalm 103:1-5,10; 2 Cor 2 :14; John 1:12 & 2 Cor 6:16
+description: Has the church lost sight of why it exists? Has the last few years taken
+  its toll on those who are the chosen generation, Gods own special people? During
+  the first part of this message we will look at the message of the Gospel, its benefits
+  and its mission and also the work that the lord has achieved for us and in us.
+duration: '37:13'
+length: 13404020
+image: "/v1667328717/Web_AudioGraphics_RRR-03_qvbghl.png"
 notes: ''
-published: false
 
 ---
