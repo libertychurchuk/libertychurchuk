@@ -57,7 +57,7 @@
 			{%- endif -%}
 			<enclosure url="https://s3.eu-west-2.amazonaws.com/messages.libertychurchuk.com/data{{ item.file }}" length="{{ item.length }}" type="audio/mp3"/>
 			<guid isPermaLink="true">{{ site.url }}{{ item.url }}</guid>
-			<pubDate>{{ item.date | date: "%a, %d %b %Y %H:%M:%S %z"  }}</pubDate>
+			<pubDate>{{ item.date | date_to_rfc822 }}</pubDate>
 			<itunes:duration>{{ item.duration }}</itunes:duration>
 			<itunes:keywords>{{ item.keywords }}</itunes:keywords>
 			<link>{{ site.url }}{{ item.url }}</link>
