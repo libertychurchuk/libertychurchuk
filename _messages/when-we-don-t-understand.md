@@ -1,15 +1,15 @@
 ---
 part: 0
-date: 2022-11-20 10:30:20 +0000
+date: 2022-11-27 10:30:20 +0000
 author: _authors/tuck-yoong.md
-file: "/2022/2022-11-20.mp3"
+file: "/2022/2022-11-27.mp3"
 title: When We Don't Understand
 series: ''
-scripture: Luke 3:16-17
+scripture: John 11
 description: ''
-duration: '31:11'
-length: 12671348
-image: "/v1669036980/Web_AudioGraphics-06_zxudko.png"
+duration: '40:14'
+length: 14491580
+image: "/v1669640349/Web_AudioGraphics-06_m05ozh.png"
 notes: ''
 published: false
 
