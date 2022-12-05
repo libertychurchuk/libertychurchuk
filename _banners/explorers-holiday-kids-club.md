@@ -6,5 +6,6 @@ background_image: "/v1658081572/LK_Explorers22-01_eounax.jpg"
 link: https://libertychurchwales.churchsuite.com/events/1ypjkcsr
 logo: ''
 expiry_date: 
+published: false
 
 ---
