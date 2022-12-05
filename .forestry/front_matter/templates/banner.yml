@@ -44,13 +44,11 @@ fields:
     display_utc: 
   hidden: true
 pages:
-- _banners/alpha-online.md
 - _banners/child-dedications.md
 - _banners/christmas-all-in-service.md
 - _banners/christmas-carol-service.md
 - _banners/christmas-eve-service.md
 - _banners/christmas-programme.md
-- _banners/easter-egg-collection.md
 - _banners/easter-sunday-liberty-kids-live-online.md
 - _banners/easter-sunday-service-online.md
 - _banners/easter-weekend.md
