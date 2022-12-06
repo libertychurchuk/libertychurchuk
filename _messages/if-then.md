@@ -7,8 +7,8 @@ title: If Then
 series: _series/rebuild-restore-renew.md
 scripture: Isaiah 61:1-7
 description: ''
-duration: '53:26'
-length: 19243580
+duration: '53:07'
+length: 19131354
 image: "/v1670250593/Web_AudioGraphics-03_pftf52.png"
 notes: ''
 
