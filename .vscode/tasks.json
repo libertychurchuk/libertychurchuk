@@ -5,7 +5,7 @@
     "tasks": [
       {
         "label": "jekyll:serve",
-        "command": "bundle exec jekyll serve",
+        "command": "jekyll serve",
         "group": {
             "kind": "build",
             "isDefault": true

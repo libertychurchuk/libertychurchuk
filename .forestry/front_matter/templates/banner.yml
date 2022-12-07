@@ -44,20 +44,15 @@ fields:
     display_utc: 
   hidden: true
 pages:
-- _banners/alpha-online.md
-- _banners/child-dedications.md
-- _banners/christmas-eve.md
-- _banners/church-online.md
-- _banners/easter-at-liberty-church.md
-- _banners/easter-egg-collection.md
-- _banners/easter-sunday-liberty-kids-live-online.md
-- _banners/easter-sunday-service-online.md
-- _banners/easter-weekend.md
-- _banners/explorers-holiday-kids-club.md
-- _banners/family-soft-play-evening.md
+- _banners/christmas-all-in-service.md
+- _banners/christmas-carol-service.md
+- _banners/christmas-cheer.md
+- _banners/christmas-eve-service.md
+- _banners/christmas-programme.md
 - _banners/good-friday-worship-night-online.md
 - _banners/jesus-hope-for-humanity.md
 - _banners/join-us-tomorrow.md
+- _banners/kids-christmas-party.md
 - _banners/king-and-his-kingdom.md
 - _banners/liberty-kids-live.md
 - _banners/liberty-lambs.md
@@ -65,13 +60,8 @@ pages:
 - _banners/midweek-bible-study.md
 - _banners/midweek-service.md
 - _banners/places-of-liberty-23rd-august-2020.md
-- _banners/summer-sundays-ice-cream-sunday.md
-- _banners/summer-sundays-picnic-games.md
-- _banners/summer-sundays-summer-drinks-doughnuts.md
-- _banners/sunday-20th-december-liberty-s-surprise-surprise.md
-- _banners/sunday-27th-december.md
-- _banners/sunday-3rd-january.md
 - _banners/sunday-gathering.md
 - _banners/sundays-at-llanwern.md
 - _banners/tuesday-evening-prayer.md
 - _banners/tuesday-night-prayer.md
+- _banners/winter-walk-january-2023.md
