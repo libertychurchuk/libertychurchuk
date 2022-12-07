@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", "~> 3.8.6"
 
 # gem "rails"
 group :jekyll_plugins do
