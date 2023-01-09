@@ -32,22 +32,6 @@ body:
     17th - Friday 19th May - Main Conference</p><p></p><p><strong><em>Registration
     for our May Gathering will be live soon!</em></strong></p>"
   display_field: ''
-- template: image-text-block
-  theme: Light
-  display: Wide
-  title: " "
-  text_alignment: Center
-  image_position: Right
-  image_type: Contain
-  call_to_action:
-  - template: call-to-action
-    button_text: Register here
-    external_link: true
-    link: https://www.eventbrite.co.uk/e/244321350737
-    video_link: false
-  subtitle: ''
-  description: ''
-  image: ''
 layout: blocks
 menu:
   sidebar:
