@@ -5,7 +5,7 @@ description: Genesis Collective... A collective of churches and relationships co
   to global church planting, together. Western Europe Leaders Gathering - May 2023.
 body:
 - template: content-block
-  title: Genesis Collective A20 Gathering
+  title: 'Genesis Collective: Western Europe Leaders Gathering - May 2023'
   size: Small
   overlay_colour: rgb(49, 54, 64)
   overlay_opacity: Opacity 30
@@ -22,21 +22,14 @@ body:
     video_link: false
 - template: text
   content: "<p><strong><em>Genesis Collective... A collective of churches and relationships
-    committed to global church planting, together.</em></strong></p><p></p><p><strong>Making
-    Sense of It All</strong></p><p>We want to invite you and your leadership team,
-    to join with us in the beautiful nation of Wales for 3 days in what we believe
-    and know will be a significant time of input. God is inviting each of us to pause,
-    dwell and connect with Him in what has been an unknown and unfolding season.</p><p>How
-    do we be kind to ourselves as leaders, taking the time to make sense of what we
-    journey through and bring life and hope to those we lead.</p><p>In reality we
-    are not always able to make sense of everything, but we can together hold on to
-    the mysteries of the Faith, knowing that in relationship and friendship we are
-    able to journey and navigate all that lies ahead for us.</p><p>We look forward
-    to this time together as we worship, hear God's Word, encourage, edify and have
-    fun. A great opportunity to meet and build new friendships. We can’t wait to see
-    you there.</p><p><strong>Schedule:</strong></p><p>Tuesday 15th February - Global
-    Leadership Day (Invite Only)</p><p>Wednesday 16th - Friday 18th February - Main
-    Conference</p>"
+    committed to global church planting, together.</em></strong></p><p>Our Genesis
+    Collective Western Europe Leaders Gathering will be a great time of equipping,
+    empowering and enlarging all those who are passionate about taking the gospel
+    to the four corners of the globe. We are inviting all elders/pastors, other ministry
+    leaders and emerging leaders to join us and wait on God, connect with other leaders
+    from around the world and be equipped to fulfil the great commission.</p><p><strong>Schedule:</strong></p><p>Monday
+    15th - Tuesday 16th May: Global Leadership Days (Invite Only)</p><p>Wednesday
+    17th - Friday 18th May - Main Conference</p>"
   display_field: ''
 - template: image-text-block
   theme: Light
