@@ -49,6 +49,5 @@ body:
   description: ''
   image: ''
 layout: blocks
-published: false
 
 ---
