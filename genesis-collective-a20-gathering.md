@@ -29,7 +29,8 @@ body:
     leaders and emerging leaders to join us and wait on God, connect with other leaders
     from around the world and be equipped to fulfil the great commission.</p><p><strong>Schedule:</strong></p><p>Monday
     15th - Tuesday 16th May: Global Leadership Days (Invite Only)</p><p>Wednesday
-    17th - Friday 18th May - Main Conference</p>"
+    17th - Friday 18th May - Main Conference</p><p></p><p><strong><em>Registration
+    for our May Gathering will be live soon!</em></strong></p>"
   display_field: ''
 - template: image-text-block
   theme: Light
