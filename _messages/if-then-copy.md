@@ -3,7 +3,7 @@ part: 10
 date: 2023-01-08 10:30:20 +0000
 author: _authors/phil-boalch.md
 file: "/2022/2023-01-08.mp3"
-title: Isaiah 61:1-4
+title: They Will
 series: _series/rebuild-restore-renew.md
 scripture: Isaiah 61:1-4
 description: What was Isaiah referring to in Chapter 61:1-4 and who was he referring
