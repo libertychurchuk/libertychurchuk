@@ -39,25 +39,9 @@ body:
     available:</em><br>- Global Team (Invite Only) and Main Conference £220<br>- Main
     Conference £140<br>- Day Delegate (Wednesday 17th and/or Thursday 18th) £28 per
     day<br><br>Prices above include accommodation, food and local trips/activities
-    during your stay.<br><br>Please register below, we look forward to spending time
-    together.<br><br><br>www.genesiscollective.org</p>"
+    during your stay.<br><br><strong>Please register below, we look forward to spending
+    time together.</strong><br><br><br>www.genesiscollective.org</p>"
   display_field: ''
-- template: content-block
-  title: " "
-  size: Small
-  overlay_colour: rgb(49, 54, 64)
-  overlay_opacity: Opacity 30
-  call_to_action:
-  - template: call-to-action
-    link: https://libertychurchwales.churchsuite.com/events/xs3cd3qo
-    external_link: true
-    button_text: Register here!
-    video_link: false
-  subtitle: ''
-  description: ''
-  logo: ''
-  background_image: ''
-  add_overlay_: false
 - template: solid-block
   call_to_action:
   - template: call-to-action
