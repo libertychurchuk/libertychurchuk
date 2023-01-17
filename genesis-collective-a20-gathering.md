@@ -39,7 +39,8 @@ body:
     available:</em><br>- Global Team (Invite Only) and Main Conference £220<br>- Main
     Conference £140<br>- Day Delegate (Wednesday 17th and/or Thursday 18th) £28 per
     day<br><br>Prices above include accommodation, food and local trips/activities
-    during your stay.<br><br>We look forward to spending time together.<br><br><br>www.genesiscollective.org</p>"
+    during your stay.<br><br>Please register below, we look forward to spending time
+    together.<br><br><br>www.genesiscollective.org</p>"
   display_field: ''
 - template: content-block
   title: " "
