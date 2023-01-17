@@ -42,7 +42,7 @@ body:
     during your stay.<br><br>We look forward to spending time together.<br><br><br>www.genesiscollective.org</p>"
   display_field: ''
 - template: content-block
-  title: Register here for the Western Europe Leaders Gathering
+  title: " "
   size: Small
   overlay_colour: rgb(49, 54, 64)
   overlay_opacity: Opacity 30
