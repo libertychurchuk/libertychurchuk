@@ -40,7 +40,7 @@ body:
     Conference £140<br>- Day Delegate (Wednesday 17th and/or Thursday 18th) £28 per
     day<br><br>Prices above include accommodation, food and local trips/activities
     during your stay.<br><br><strong>Please register below, we look forward to spending
-    time together.</strong><br><br><br>www.genesiscollective.org</p>"
+    time together.</strong></p>"
   display_field: ''
 - template: solid-block
   call_to_action:
