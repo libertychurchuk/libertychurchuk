@@ -58,6 +58,18 @@ body:
   logo: ''
   background_image: ''
   add_overlay_: false
+- template: solid-block
+  call_to_action:
+  - template: call-to-action
+    link: https://libertychurchwales.churchsuite.com/events/xs3cd3qo
+    button_text: Register Here
+    external_link: true
+    video_link: false
+  title: ''
+  subtitle: ''
+  description: ''
+  logo: ''
+  background_colour: ''
 layout: blocks
 menu:
   sidebar:
