@@ -27,10 +27,19 @@ body:
     empowering and enlarging all those who are passionate about taking the gospel
     to the four corners of the globe. We are inviting all elders/pastors, other ministry
     leaders and emerging leaders to join us and wait on God, connect with other leaders
-    from around the world and be equipped to fulfil the great commission.</p><p><strong>Schedule:</strong></p><p>Monday
-    15th - Tuesday 16th May: Global Leadership Days (Invite Only)</p><p>Wednesday
-    17th - Friday 19th May - Main Conference</p><p></p><p><strong><em>Registration
-    for our May Gathering will be live soon!</em></strong></p>"
+    from around the world and be equipped to fulfil the great commission.</p><p></p><p><strong>PROPOSED
+    SCHEDULE:</strong></p><p><strong><em>Monday 15th May: Global Leadership Days (Invite
+    Only)</em></strong><br><br><strong><em>Tuesday 16th May: Global Leadership Days
+    (Invite Only)</em></strong><br><br><strong><em>Wednesday 17th &amp; Thursday 18th
+    May: Main Conference</em></strong><br>9.30am Arrival &amp; Coffee<br>10am Session
+    1<br>11am Break<br>11.15am Session 2<br>12.30pm Lunch<br>2pm Session 3<br>3-5.30pm
+    Fun Activities<br>5.30pm Dinner<br>7pm Session 4<br><br><strong><em>Friday 19th
+    May: Main Conference</em></strong><br>10am Session 1<br>11am Break<br>11.15am
+    Session 2<br><br><br><strong>TICKETS:</strong><br><em>There are 3 types of tickets
+    available:</em><br>- Global Team (Invite Only) and Main Conference £220<br>- Main
+    Conference £140<br>- Day Delegate (Wednesday 17th and/or Thursday 18th) £28 per
+    day<br><br>Prices above include accommodation, food and local trips/activities
+    during your stay.<br><br>We look forward to spending time together.<br><br><br>www.genesiscollective.org</p>"
   display_field: ''
 - template: content-block
   title: e.g. New to church
