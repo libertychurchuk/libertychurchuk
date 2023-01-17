@@ -32,6 +32,22 @@ body:
     17th - Friday 19th May - Main Conference</p><p></p><p><strong><em>Registration
     for our May Gathering will be live soon!</em></strong></p>"
   display_field: ''
+- template: content-block
+  title: e.g. New to church
+  size: Small
+  overlay_colour: rgb(49, 54, 64)
+  overlay_opacity: Opacity 30
+  call_to_action:
+  - template: call-to-action
+    link: https://libertychurchwales.churchsuite.com/events/xs3cd3qo
+    external_link: true
+    button_text: Register here!
+    video_link: false
+  subtitle: ''
+  description: ''
+  logo: ''
+  background_image: ''
+  add_overlay_: false
 layout: blocks
 menu:
   sidebar:
