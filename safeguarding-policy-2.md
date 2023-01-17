@@ -5,7 +5,7 @@ subtitle: ''
 image: ''
 menu:
   sidebar:
-    weight: 5
+    weight: 6
 
 ---
 ## **Policy Statement on Safeguarding**

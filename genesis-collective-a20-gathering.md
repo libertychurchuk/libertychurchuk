@@ -57,7 +57,7 @@ body:
 layout: blocks
 menu:
   sidebar:
-    weight: 14
+    weight: 1
     title: Genesis Collective Gathering
 
 ---
