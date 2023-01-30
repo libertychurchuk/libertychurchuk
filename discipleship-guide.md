@@ -8,11 +8,9 @@ description: "<p>Over the next few months we are going to be diving into the 'Di
   our small groups and on a Sunday. Download the Discipleship Guide below.</p>"
 image: ''
 call_to_action:
-- template: call-to-action
+- template: file-download
   button_text: Download Discipleship Guide Here
-  link: ''
-  video_link: false
-  external_link: false
+  file_download: ''
 published: false
 
 ---
