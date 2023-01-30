@@ -3,7 +3,9 @@ theme: Light
 image_type: Cover
 title: Discipleship Guide
 subtitle: ''
-description: ''
+description: "<p>Over the next few months we are going to be diving into the 'Discipleship
+  Guide' as a church. This is an incredible resource and we will be exploring it through
+  our small groups and on a Sunday.</p>"
 image: ''
 call_to_action:
 - template: file-download
