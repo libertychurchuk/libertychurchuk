@@ -5,7 +5,7 @@ subtitle: What is going on in the life of the church
 image: ''
 menu:
   sidebar:
-    weight: 4
+    weight: 5
   primary:
     weight: 4
 
