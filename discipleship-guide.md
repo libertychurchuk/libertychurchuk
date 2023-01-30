@@ -6,7 +6,7 @@ subtitle: ''
 description: "<p>Over the next few months we are going to be diving into the 'Discipleship
   Guide' as a church. This is an incredible resource and we will be exploring it through
   our small groups and on a Sunday.</p>"
-image: ''
+image: "/v1675091019/dylan-gillis-KdeqA3aTnBY-unsplash_dgseiv.jpg"
 call_to_action:
 - template: file-download
   button_text: Download Discipleship Guide Here
