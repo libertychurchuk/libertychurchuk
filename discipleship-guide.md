@@ -12,6 +12,8 @@ call_to_action:
   button_text: Download Discipleship Guide Here
   file_download: "/v1675090897/discipleship_guide_2022_second_edition_LibertySD_ygu5ds.pdf"
 menu:
+  primary:
+    weight: 7
   sidebar:
     weight: 3
 
