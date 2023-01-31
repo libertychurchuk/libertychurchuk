@@ -70,6 +70,3 @@ fields:
   - donate-button
   config:
     max: '4'
-pages:
-- discipleship-guide-2.md
-- discipleship-guide.md
